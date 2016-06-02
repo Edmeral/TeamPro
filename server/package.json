@@ -1,0 +1,20 @@
+{
+  "name": "projet-java-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mkdirp": "^0.5.1",
+    "mongoose": "^4.3.4",
+    "morgan": "^1.6.1",
+    "multer": "^1.1.0",
+    "socket.io": "^1.4.4"
+  }
+}

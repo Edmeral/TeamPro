@@ -16,3 +16,4 @@ To lunch the actual app, go to the dist folder and run:
 $ java -jar teampro.jar
 ```
 to lunch multiple instance of the app, run the command multiple times.
+![](https://i.imgur.com/Ppr89hq.png)
